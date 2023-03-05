@@ -3,7 +3,7 @@
   COMMON css 
 ===========================*/
 :root {
-  --font-family: "Monaco";
+  --font-family: "Arial", sans-serif;
   --primary: #155bd5;
   --primary-dark: #1c3ab6;
   --primary-light: #e2f1ff;
