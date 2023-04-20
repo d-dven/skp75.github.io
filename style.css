@@ -84,7 +84,9 @@ img {
   margin: auto;
 }
 
-
+.mySlides {
+  display: block;
+}
 
 /* Next & previous buttons */
 .prev, .next {
