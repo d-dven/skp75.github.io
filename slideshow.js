@@ -9,6 +9,7 @@ function plusSlides(n) {
 // Thumbnail image controls
 function currentSlide(n) {
   showSlides(slideIndex = n);
+  slides[slideIndex-1].style.display = "block"
 }
 
 function showSlides(n) {
